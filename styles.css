@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-image: url "images/photo6(2).jpeg";
+  background-image: url "images/photo6.jpg";
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -46,7 +46,7 @@ nav a :hoover {
   background: #ececec;
 }
 .profile img {
-  width:250px;
+  width:25px;
   height:250px;
   border-radius: 50%;
   border:5px solid gold;
@@ -67,5 +67,35 @@ nav a :hoover {
   font-size: 35px;
 }
 .photos{
-  
+  display:flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2opx;
+
+}
+
+.photos img{
+  width:300px;
+  height:200px;
+  border-radius: 10px;
+  object-fit:cover;
+  transition:0.4s;
+
+}
+.photos img:hover{
+  transform:scale;
+  border-color: gold;
+
+}
+.contact{
+  background:#222;
+  color:white;
+  text-align: center;
+  padding:60%;
+
+}
+form{
+  width:400px;
+  margin:auto;
+
 }
