@@ -127,3 +127,8 @@ button[type="submit"]{
   background-color: gold;
   color:black;
 }
+
+button:hover{
+  opacity:0.85;
+
+}
