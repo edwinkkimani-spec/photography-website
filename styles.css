@@ -36,16 +36,18 @@ nav a :hoover {
   color: gold;
 }
 .website {
+  background-image: url ("images/photo6.jpg");
   text-align: center;
-  padding: 60px;
-  background: white;
+  padding: 50px;
+  background: rgb(69, 19, 19);
 }
 .website p {
-  background-image: url ("images/photo6.jpg");
-  width: 70;
+  height:300px;
+  width: 400px;
   margin: auto;
   line-height: 1.8;
-  font-size: 25px;
+  font-size: 100px;
+  text-align: center;
 }
 .profile h2{
   text-align: center;
@@ -53,16 +55,6 @@ nav a :hoover {
   background: #ececec;
 }
 .profile img {
-  width:25px;
-  height:250px;
-  border-radius: 69%;
-  border:5px solid gold;
-  display: block;
-  margin:0 block;
-
-
-
-  margin-bottom:20px;
 
 }
 .profile p{
@@ -99,14 +91,14 @@ nav a :hoover {
 
 }
 .contact{
-  background:#222;
+  
   color:white;
   text-align: center;
-  padding:60%;
+  
 
 }
 form{
-  width:400px;
+  width:40px;
   margin:auto;
 
 }
