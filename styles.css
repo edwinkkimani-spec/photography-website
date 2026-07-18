@@ -1,4 +1,4 @@
-# {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -21,4 +21,51 @@ header {
   background: #000;
   color: white;
   display: flex;
+}
+nav ul {
+  list-style: none;
+  display: flex;
+}
+nav a :hoover {
+  color: gold;
+}
+.website {
+  text-align: center;
+  padding: 60px;
+  background: white;
+}
+.website p {
+  width: 75;
+  margin: auto;
+  line-height: 1.8;
+  font-size: 35px;
+}
+.profile h2{
+  text-align: center;
+  padding: 60px;
+  background: #ececec;
+}
+.profile img {
+  width:250px;
+  height:250px;
+  border-radius: 50%;
+  border:5px solid gold;
+  object-fit:cover;
+  margin-bottom:20px;
+
+}
+.profile p{
+  font-size: 18px;
+
+}
+.gallery{
+  text-align: center;
+  padding:60px;
+}
+.gallery h2{
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+.photos{
+  
 }
