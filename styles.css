@@ -14,17 +14,23 @@ body {
 }
 
 header {
-  background-image: url "images/photo6.jpg";
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   background: #000;
   color: white;
-  display: flex;
+  display:flex;
+  justify-content:space-between;
+
 }
 nav ul {
-  list-style: none;
   display: flex;
+  margin:0;
+  padding:0;
+  list-style: none;
+  gap:20px;
+
+  
 }
 nav a :hoover {
   color: gold;
@@ -35,10 +41,11 @@ nav a :hoover {
   background: white;
 }
 .website p {
-  width: 75px;
+  background-image: url ("images/photo6.jpg");
+  width: 70;
   margin: auto;
   line-height: 1.8;
-  font-size: 35px;
+  font-size: 25px;
 }
 .profile h2{
   text-align: center;
@@ -48,9 +55,13 @@ nav a :hoover {
 .profile img {
   width:25px;
   height:250px;
-  border-radius: 50%;
+  border-radius: 69%;
   border:5px solid gold;
-  object-fit:cover;
+  display: block;
+  margin:0 block;
+
+
+
   margin-bottom:20px;
 
 }
