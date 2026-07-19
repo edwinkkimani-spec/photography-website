@@ -44,15 +44,16 @@ nav a :hoover {
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  padding: 40px;
+  padding: 60px;
   background-image: url("images/photo6.jpg");
   height: 400px;
    background-size:cover;
-   width:900px;
+   width:950px;
   margin:auto;
   margin-top: 10px;
   border-radius: 4px solid black;
   border:20px;
+
 
 
 }
