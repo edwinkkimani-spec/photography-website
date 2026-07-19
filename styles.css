@@ -40,15 +40,19 @@ nav a :hoover {
   color: gold;
 }
 .website {
+  display:flex;
   justify-content: center;
   flex-direction: column;
   text-align: center;
   padding: 50px;
-  background-image: url ("images/photo6.jpg");
+  background-image: url("images/photo6.jpg");
+  height: 400px;
+   background-size: cover;
+   width:800px;
 }
 .website p {
-background-image: url ("images/photo6.jpg");
-  height:150px;
+  background-color:white;
+  background-size: cover;
   width:400px;
   margin:auto;
   line-height: 1.8;
@@ -59,8 +63,10 @@ background-image: url ("images/photo6.jpg");
 .profile h2{
   text-align: center;
   padding: 60px;
-  background: #604646;
+  background:white;
   height:0px;
+  margin-top: 5px;
+  margin-bottom: 5px;
 }
 .profile img {
   display:block;
@@ -68,6 +74,8 @@ background-image: url ("images/photo6.jpg");
   border-radius: 50%;
   margin:auto;
   width: 200px;
+  margin-bottom: 10px;
+
   
 
 }
