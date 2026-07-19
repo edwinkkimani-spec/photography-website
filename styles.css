@@ -44,29 +44,33 @@ nav a :hoover {
   justify-content: center;
   flex-direction: column;
   text-align: center;
-  padding: 50px;
+  padding: 40px;
   background-image: url("images/photo6.jpg");
   height: 400px;
    background-size: cover;
-   width:800px;
+   width:850px;
+   margin:auto;
+
 }
 .website p {
-  background-color:white;
-  background-size: cover;
-  width:400px;
+  background-color:#f5f5f5;
+  background-size:45px;
+  width:300px;
   margin:auto;
   line-height: 1.8;
-  font-size: 20px;
+  font-size: 10px;
   text-align: center;
+  margin-top: 0px;
+  padding:20px;
 
 }
 .profile h2{
   text-align: center;
-  padding: 60px;
+  padding: 40px;
   background:white;
   height:0px;
   margin-top: 5px;
-  margin-bottom: 5px;
+  margin-bottom: 0px;
 }
 .profile img {
   display:block;
