@@ -136,13 +136,16 @@ nav a :hoover {
   color:white;
   text-align: center;
   background-image:url("images/photo7.jpg");
+  background-size: cover;
+  width:80 px;
+  margin:auto;
   
 
 }
 form{
   width:40px;
   margin:auto;
-  background-image:url("images/photo7.jpg");
+  
 
 }
 label{

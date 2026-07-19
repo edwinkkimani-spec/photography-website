@@ -22,7 +22,7 @@ This project was created to practice front-end web development skills while desi
 - Mobile-friendly design
 
 ---
-
+## link to my website "https://github.com/edwinkkimani-spec/photography-website"
 ## 🛠️ Built With
 
 - HTML5
