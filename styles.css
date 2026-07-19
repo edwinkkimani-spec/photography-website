@@ -137,9 +137,9 @@ nav a :hoover {
   text-align: center;
   background-image:url("images/photo7.jpg");
   background-size: cover;
-  width:80 px;
+  width:700px;
   margin:auto;
-  
+  border-radius: 20px;
 
 }
 form{
