@@ -82,6 +82,7 @@ nav a :hoover {
   height:0px;
   margin-top: 5px;
   margin-bottom: 0px;
+  color:goldenrod;
 }
 .profile img {
   display:block;
@@ -90,8 +91,6 @@ nav a :hoover {
   margin:auto;
   width: 200px;
   margin-bottom: 10px;
-
-  
 
 }
 .profile p{
@@ -136,12 +135,14 @@ nav a :hoover {
   
   color:white;
   text-align: center;
+  background-image:url("images/photo7.jpg");
   
 
 }
 form{
   width:40px;
   margin:auto;
+  background-image:url("images/photo7.jpg");
 
 }
 label{
