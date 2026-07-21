@@ -1,16 +1,15 @@
-# 📸 ADINAYA Photography
+ ADINAYA Photography
 
 Welcome to **ADINAYA Photography**, a modern and responsive photography website built using **HTML** and **CSS**. The website showcases beautiful photography with a clean, elegant, and user-friendly design.
 
 ---
 
-## 📖 About the Project
+ About the Project
 
 This project was created to practice front-end web development skills while designing a visually appealing photography website. It demonstrates the use of semantic HTML and modern CSS techniques to create a responsive and attractive user interface.
 
 ---
-
-## ✨ Features
+ Features
 
 - Responsive design
 - Hero section with background image
@@ -22,8 +21,8 @@ This project was created to practice front-end web development skills while desi
 - Mobile-friendly design
 
 ---
-## link to my website "https://github.com/edwinkkimani-spec/photography-website"
-## 🛠️ Built With
+ link to my website "https://github.com/edwinkkimani-spec/photography-website"
+ Built With
 
 - HTML5
 - CSS3
@@ -33,7 +32,7 @@ This project was created to practice front-end web development skills while desi
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 
 ```text
 ADINAYA/
@@ -49,12 +48,12 @@ ADINAYA/
 
 ---
 
-## 👨‍💻 Author
+ Author
 
 **Edwin Kimani**
 
 ---
 
-## 📄 License
+ License
 
 This project is for educational purposes.
